@@ -1,0 +1,8 @@
+{
+  "name": "ionic3-nearby",
+  "app_id": "66355553",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
