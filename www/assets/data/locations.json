@@ -1,0 +1,46 @@
+{
+    "locations": [
+ 
+        {
+            "title": "The Rooftile and Brickworks Museum N. & S. Tsalapatas", 
+            "latitude": 39.364200,
+            "longitude": 22.931779
+        },
+        {
+            "title": "Volos Museum of the City",
+            "latitude": 39.364049,
+            "longitude": 22.935852
+        },
+        {
+            "title": "Athanasakio Archeological Museum",
+            "latitude": 39.351911,
+            "longitude": 22.961372
+        },
+        {
+            "title": "Volos Natural History Museum",
+            "latitude": 39.370260,
+            "longitude": 22.936845
+        },
+        {
+            "title": "Entomological Museum",
+            "latitude": 39.374235,
+            "longitude": 22.946213
+        },
+        {
+            "title": "Argo Ship",
+            "latitude": 39.359280,
+            "longitude": 22.945895
+        },
+        {
+            "title": "Kitsos Makris Folklore Museum",
+            "latitude": 39.357163,
+            "longitude": 22.961287
+        },
+        {
+            "title": "Theofilos Museum of Anakasia",
+            "latitude": 39.380281,
+            "longitude": 22.973859
+        }
+        
+    ]
+}
